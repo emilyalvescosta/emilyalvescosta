@@ -33,8 +33,8 @@
 
 | Projeto | Descrição | Realizado | Tecnologias |
 |---|---|---|---|
-| [**Pague Zero**](LINK-DO-PAGUE-ZERO) | Plataforma web de doação de produtos, facilitando que quem quer doar encontre quem precisa. | 👥 Em grupo  | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
-| [**Consulta Certa**](LINK-DO-CONSULTA-CERTA) | Sistema web para agendamento de consultas médicas de forma simples e organizada. | 👥 Em grupo | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Pague Zero**](http://paguezero.azurewebsites.net/) | Plataforma web de doação de produtos, facilitando que quem quer doar encontre quem precisa. | 👥 Em grupo | C#, ASP.NET Core MVC, JavaScript, SQL Server, Azure |
+| [**Consulta Certa**](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2026-1-e1-proj-web-t10-consultacerta/codigo-fonte/HomePage/) | Sistema web para agendamento de consultas médicas de forma simples e organizada. | 👥 Em grupo | HTML, CSS, JavaScript |
 
 ---
  
